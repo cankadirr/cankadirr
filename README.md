@@ -1,16 +1,26 @@
-## Hi there 👋
+# Kadir Can
 
-<!--
-**cankadirr/cankadirr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer based in Istanbul. I build multilingual media and publishing platforms with Next.js and Strapi.
 
-Here are some ideas to get you started:
+My client and product work lives in private repositories, so there is no code to browse here. The projects themselves are live.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Pung Media
+
+[pungmedia.com](https://pungmedia.com)
+
+A trilingual newsroom (Turkish, Kurdish, English) that replaced an aging WordPress site. I designed and built the whole stack.
+
+- Next.js 15 (App Router, ISR) frontend, Strapi v5 + PostgreSQL with full i18n, Meilisearch search
+- Custom admin panel: editorial workflow, roles, notifications, rich-text editor
+- Paywall, text-to-speech, automated social publishing and an Android app
+- WordPress migration with three-language parity across thousands of articles
+
+## Diyarbakır Metropolitan Municipality
+
+[diyarbakir.bel.tr](https://www.diyarbakir.bel.tr/)
+
+The official website of the municipality: a high-traffic public platform in three languages, built as lead developer.
+
+## Stack
+
+TypeScript · Next.js · React · Tailwind CSS · Strapi · PostgreSQL · Meilisearch · Docker
